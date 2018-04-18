@@ -1,0 +1,7 @@
+name: DoubleJump
+author: Daniel Mossie
+main: com.javaminecraft.DoubleJump
+commands:
+    doublejump:
+        description: Double Jump Plugin
+version: 1.0
