@@ -1,2 +1,2 @@
-# DoubleJump
-Minecraft spigot mod made for DoubleJump Games
+# Minecraft Mod
+Learning to make a Minecraft Spigot mod
